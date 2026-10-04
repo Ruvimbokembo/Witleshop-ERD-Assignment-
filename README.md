@@ -42,6 +42,8 @@ The purpose of this assignment is to develop an Entity Relation Diagram (ERD) th
 
 # Tools used 
 Draw.io
+
 GitHub 
+
 
 All the Entity Drawing were done using Draw.io
