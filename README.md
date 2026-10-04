@@ -1,6 +1,9 @@
 # WitleShop-ERD-Assignment-
+
 WitleShop Online Retail System ERD( Entity Relation Diagram )  Assignment 
+
 Assignment Overview
+
 As a newly hired Junior Database Analyst at WitleShop (Pty) Ltd , I was tasked by the head of IT to design a database structure for the company's online retail system. The company sells electronics ,clothing and home appliances directly to customer through its website and mobile platforms.
 The purpose of this assignment is to develop an Entity Relation Diagram (ERD) that will show the main entities attributes and relationship required to manage customers ,products,orders,payments,deliveries,suppliers,catergories and delivery addresses. The ERD will provide a clear structure for the database and ensure the company information is stored.
 # Entities: 
