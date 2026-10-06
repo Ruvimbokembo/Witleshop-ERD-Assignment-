@@ -40,7 +40,7 @@ The purpose of this assignment is to develop an Entity Relation Diagram (ERD) th
 
 - 1 category can have many products - ( 1 : M ) 
 
-# Tools used 
+## Tools used 
 - Draw.io
 
 - GitHub 
